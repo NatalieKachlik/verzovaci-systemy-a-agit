@@ -1,7 +1,5 @@
-# Deštík
+Bouřka
 
-Ťuká, ťuká deštík
-na široký deštník.
 
 Ťuká, ťuká prstíkem.
 Kdo je pod tím deštníkem?
